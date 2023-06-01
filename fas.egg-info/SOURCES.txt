@@ -13,8 +13,8 @@ fas/gui_help.py
 fas/help-program-window.png
 fas/icon-run.png
 fas/useful.py
-fig.egg-info/PKG-INFO
-fig.egg-info/SOURCES.txt
-fig.egg-info/dependency_links.txt
-fig.egg-info/entry_points.txt
-fig.egg-info/top_level.txt
+fas.egg-info/PKG-INFO
+fas.egg-info/SOURCES.txt
+fas.egg-info/dependency_links.txt
+fas.egg-info/entry_points.txt
+fas.egg-info/top_level.txt

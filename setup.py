@@ -1,9 +1,9 @@
 from setuptools import setup
 
 
-setup(name='fig',
+setup(name='fas',
     python_requires='>=3.8',
-    version='0.0.2',
+    version='0.0.3',
     description='File Associations and Sorter (FAS)',
     url='https://github.com/RoyBebru/fas',
     author='Roy Bebru',
