@@ -14,3 +14,4 @@ Linux.
 Запуск як модуля без графіки
 
     py -m fas.fas -G -d sorted_folder UNSORTED_FOLDER
+
